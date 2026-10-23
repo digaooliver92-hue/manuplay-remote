@@ -1,0 +1,16 @@
+{
+ "name": "Frente de Loja",
+ "profiles": [
+  {
+   "id": "frentedeloja",
+   "name": "Frente de Loja",
+   "base": "https://a7.asurahosting.com",
+   "station": "frente_de_loja",
+   "key": "2f48b2cb6058955e:cdefd3fcfda73847c0ebf0e4069fb5fa"
+  }
+ ],
+ "active": "frentedeloja",
+ "v": 1,
+ "cid": 1792719635,
+ "cmd": "sync"
+}
