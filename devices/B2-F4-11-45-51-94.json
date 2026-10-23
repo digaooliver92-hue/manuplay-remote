@@ -10,7 +10,8 @@
   }
  ],
  "active": "frentedeloja",
- "v": 1,
+ "v": 2,
  "cid": 1792719635,
- "cmd": "sync"
+ "cmd": "sync",
+ "pin": ""
 }
